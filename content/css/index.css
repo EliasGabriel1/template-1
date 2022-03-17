@@ -2,13 +2,13 @@ body{
     background-color: var(--ton-white-2);
 }
 
-header{
+header{ 
     background-image: url(./../img/background.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: center;
 }
-
+    
 nav.desk{
     justify-content: space-between;
     align-items: center;
